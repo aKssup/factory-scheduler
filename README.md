@@ -1,6 +1,6 @@
 # Tulkoff Condiments Factory Scheduler
 
-This repository contains a Streamlit-based scheduling tool for managing condenser production at a condiments factory. It consists of two main modules:
+This repository contains a Streamlit-based scheduling tool for managing condiments production at a condiments factory. It consists of two main modules:
 
 - **`scheduler.py`** (backend): data processing and scheduling logic
 - **`app.py`** (frontend): Streamlit GUI that ties everything together
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-   This will open a browser window at `http://localhost:8501` with the scheduler GUI.
+This will open a browser window at `http://localhost:8501` with the scheduler GUI.
 
 ---
 
