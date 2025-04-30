@@ -9,11 +9,12 @@ This repository contains a Streamlit-based scheduling tool for managing condimen
 
 ## 🚀 1 · Quick Start
 
-### 1-a · Create and activate a virtual environment
-| OS / Shell | Commands |
-|------------|----------|
-| **macOS / Linux** |```bash\npython3 -m venv venv\nsource venv/bin/activate\n```|
-| **Windows (PowerShell)** |```powershell\npython -m venv venv\n.\venv\Scripts\Activate.ps1\n```|
+### 1-a · Create and activate a Python environment
+| OS / Shell           | Create environment         | Activate environment               |
+|----------------------|----------------------------|------------------------------------|
+| **macOS / Linux**    | `python3 -m venv venv`     | `source venv/bin/activate`         |
+| **Windows (PowerShell)** | `python -m venv venv`  | `.\venv\Scripts\Activate.ps1`      |
+
 
 ### 1-b · Install dependencies
 ```bash
@@ -85,5 +86,29 @@ At the bottom, click **📥 Download Results as Excel** to export:
 - Day Summary  
 
 ---
+
+
+## 🔗 Contributing & Support
+
+If you run into any bugs or have feature requests, please open an issue on our GitHub repo:
+
+> https://github.com/aKssup/factory-scheduler/issues
+
+PRs, feedback, and ⭐️s are very welcome!
+
+---
+
+## 🖼️ Example & Screenshots
+
+Below is an example of the scheduler in action. You can either:
+
+1. **Embed a real screenshot**  
+   - Save a PNG of your Streamlit app under `images/scheduler.png`  
+   - Then this Markdown will display it:
+
+   ```markdown
+   ![Scheduler UI 1](./images/scheduler1.png)
+   ![Scheduler UI 1](./images/scheduler2.png)
+
 
 *Built for Tulkoff Condiments Factory — streamlining your production planning with a simple, interactive scheduler!*
