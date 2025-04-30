@@ -7,34 +7,24 @@ This repository contains a Streamlit-based scheduling tool for managing condense
 
 ---
 
-## 🚀 1. Getting Started
+## 🚀 1 · Quick Start
 
-### Prerequisites
-- Python 3.8+
-- [Streamlit](https://streamlit.io/) framework
-- Your virtual environment (provided in this repo)
+### 1-a · Create and activate a virtual environment
+| OS / Shell | Commands |
+|------------|----------|
+| **macOS / Linux** |```bash\npython3 -m venv venv\nsource venv/bin/activate\n```|
+| **Windows (PowerShell)** |```powershell\npython -m venv venv\n.\venv\Scripts\Activate.ps1\n```|
 
-### Installation & Run
-1. **Activate the virtual environment** (bundled in this repo)  
-   - **macOS / Linux**  
-     ```bash
-     source ./venv/bin/activate
-     ```  
-   - **Windows (PowerShell)**  
-     ```powershell
-     .\venv\Scripts\Activate.ps1
-     ```
+### 1-b · Install dependencies
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
-2. **Install dependencies** (if needed)  
-   If you wish to regenerate a fresh environment, you can install dependencies manually:
-   ```bash
-   pip install streamlit pandas openpyxl
-   ```
-
-3. **Launch the app**  
-   ```bash
-   streamlit run app.py
-   ```
+### 1-c · Launch the app
+```bash
+streamlit run app.py
+```
 
    This will open a browser window at `http://localhost:8501` with the scheduler GUI.
 
