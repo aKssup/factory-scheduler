@@ -30,7 +30,7 @@ streamlit run app.py
 
 ---
 
-## 🖥️ 2. GUI Overview & Features
+## 🖥️ 2 · GUI Overview & Features
 
 When the app loads, you’ll see a clean, three-column layout and a sidebar with configuration options.
 
