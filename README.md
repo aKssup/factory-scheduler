@@ -105,6 +105,6 @@ Below is an example of the scheduler in action:
 ```markdown
 ![Scheduler UI 1](/images/scheduler1.png)
 ![Scheduler UI 2](/images/scheduler2.png)
-
+```
 
 *Built for Tulkoff Condiments Factory — streamlining your production planning with a simple, interactive scheduler!*
