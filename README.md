@@ -100,11 +100,10 @@ PRs, feedback, and ⭐️s are very welcome!
 
 ## 🖼️ Example & Screenshots
 
-Below is an example of the scheduler in action:
+Below is an example of the scheduler welcome page:
 
 
 ![Scheduler UI 1](images/scheduler1.png)
-![Scheduler UI 2](images/scheduler2.png)
 
 
 *Built for Tulkoff Condiments Factory — streamlining your production planning with a simple, interactive scheduler!*
