@@ -100,15 +100,11 @@ PRs, feedback, and ⭐️s are very welcome!
 
 ## 🖼️ Example & Screenshots
 
-Below is an example of the scheduler in action. You can either:
+Below is an example of the scheduler in action:
 
-1. **Embed a real screenshot**  
-   - Save a PNG of your Streamlit app under `images/scheduler.png`  
-   - Then this Markdown will display it:
-
-   ```markdown
-   ![Scheduler UI 1](./images/scheduler1.png)
-   ![Scheduler UI 1](./images/scheduler2.png)
+```markdown
+![Scheduler UI 1](/images/scheduler1.png)
+![Scheduler UI 1](/images/scheduler2.png)
 
 
 *Built for Tulkoff Condiments Factory — streamlining your production planning with a simple, interactive scheduler!*
